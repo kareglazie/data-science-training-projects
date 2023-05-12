@@ -12,5 +12,5 @@
 - matplotlib
 - seaborn
 - sklearn
-- ibmlearn
+- imblearn
 
