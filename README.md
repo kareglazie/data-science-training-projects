@@ -9,4 +9,4 @@
 | [6. Прогнозирование оттока клиентов банка](https://github.com/kareglazie/data-science-training-projects/tree/main/churn) | Построена и протестирована модель классификации, чтобы предсказать, уйдёт клиент из банка в ближайшее время или нет (работа с несбалансированными классами) | pandas, seaborn, matplotlib, sklearn, imblearn |
 | [7. Определение наиболее выгодного региона нефтедобычи](https://github.com/kareglazie/data-science-training-projects/tree/main/oil) | На основании данных о скважинах и с учетом возможных рисков разработана модель для определения региона, где добыча нефти принесёт наибольшую прибыль | pandas, seaborn, matplotlib, sklearn |
 |[8. Исследование концентрации золота в руде](https://github.com/kareglazie/data-science-training-projects/tree/main/gold) | Построена модель машинного обучения предсказания коэффициента восстановления золота из золотосодержащей руды на основе данных с параметрами добычи и очистки | pandas, seaborn, matplotlib, sklearn |
-
+|[9. Защита персональных данных клиентов](https://github.com/kareglazie/data-science-training-projects/tree/main/encryption) | Разработка модели анонимизации персональных данных | numpy, sklearn |
